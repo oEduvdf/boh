@@ -1,4 +1,4 @@
-package com.igor;
+package com.eduvd;
 
 public class Cliente{
     private String nome;

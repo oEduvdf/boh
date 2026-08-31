@@ -1,4 +1,4 @@
-package com.igor;
+package com.eduvd;
 
 public class ContaApp{
     public static void main(String[] args){

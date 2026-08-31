@@ -1,4 +1,4 @@
-package com.igor;
+package com.eduvd;
 
 public class Pessoa {
     private String nome;
@@ -10,7 +10,7 @@ public class Pessoa {
     public int getIdade() {
         return idade;
     }
-    
+
     public String toString() {
         return "Pessoa [nome=" + nome + ", idade=" + idade + "]";
     }

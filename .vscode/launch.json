@@ -6,9 +6,16 @@
   "configurations": [
     {
       "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "com.eduvd.App",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "ContaApp",
       "request": "launch",
-      "mainClass": "com.igor.ContaApp",
+      "mainClass": "com.eduvd.ContaApp",
       "projectName": "projetoum"
     },
     {

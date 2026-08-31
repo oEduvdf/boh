@@ -1,4 +1,4 @@
-package com.igor;
+package com.eduvd;
 
 import java.util.Scanner;
 
